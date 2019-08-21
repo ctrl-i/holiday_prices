@@ -86,10 +86,10 @@
                 "basic": 613
             },
             "2019-08-21": {
-                "basic": 1180.46,
-                "comfort": 1516.46,
-                "economy": 1279.46,
-                "first": 4059.46
+                "basic": 1180,
+                "comfort": 1516,
+                "economy": 1279,
+                "first": 4059
             }
         },
         "BZN": {
@@ -178,10 +178,10 @@
                 "basic": 613
             },
             "2019-08-21": {
-                "basic": 1226.46,
-                "comfort": 1566.46,
-                "economy": 1316.46,
-                "first": 4059.46
+                "basic": 1226,
+                "comfort": 1566,
+                "economy": 1316,
+                "first": 4059
             }
         },
         "COD": {},
@@ -304,10 +304,10 @@
                 "basic": 443
             },
             "2019-08-21": {
-                "basic": 507.46,
-                "comfort": 993.46,
-                "economy": 597.46,
-                "first": 4009.46
+                "basic": 507,
+                "comfort": 993,
+                "economy": 597,
+                "first": 4009
             }
         },
         "GTF": {
@@ -425,10 +425,10 @@
                 "basic": 678
             },
             "2019-08-21": {
-                "basic": 1196.46,
-                "comfort": 1630.46,
-                "economy": 1297.46,
-                "first": 4123.46
+                "basic": 1196,
+                "comfort": 1630,
+                "economy": 1297,
+                "first": 4123
             }
         },
         "IDA": {
@@ -974,16 +974,16 @@
                 "basic": 614
             },
             "2019-08-21": {
-                "basic": 926.46,
-                "comfort": 1416.46,
-                "economy": 982.46,
-                "first": 4233.46
+                "basic": 926,
+                "comfort": 1416,
+                "economy": 982,
+                "first": 4233
             }
         },
         "PIH": {
             "2019-08-21": {
-                "economy": 1396.46,
-                "first": 9536.46
+                "economy": 1396,
+                "first": 9536
             }
         },
         "RAP": {
@@ -1174,9 +1174,9 @@
                 "basic": 1137
             },
             "2019-08-21": {
-                "basic": 1166.46,
-                "economy": 1256.46,
-                "first": 3776.46
+                "basic": 1166,
+                "economy": 1256,
+                "first": 3776
             }
         },
         "SLC": {
@@ -1271,16 +1271,16 @@
                 "basic": 608
             },
             "2019-08-21": {
-                "basic": 905.86,
-                "comfort": 1260.46,
-                "economy": 903.46,
-                "first": 3654.46
+                "basic": 906,
+                "comfort": 1260,
+                "economy": 903,
+                "first": 3654
             }
         },
         "TWF": {
             "2019-08-21": {
-                "economy": 1380.46,
-                "first": 9616.46
+                "economy": 1380,
+                "first": 9616
             }
         }
     }
