@@ -344,10 +344,10 @@
                 "first": 3559
             },
             "2019-08-23": {
-                "basic": 1053,
+                "basic": 742,
                 "comfort": 1343,
-                "economy": 1143,
-                "first": 3559
+                "economy": 835,
+                "first": 4009
             }
         },
         "GTF": {
@@ -360,7 +360,7 @@
             },
             "2019-08-23": {
                 "comfort": 1949,
-                "economy": 1378
+                "economy": 1225
             }
         },
         "HLN": {
@@ -485,9 +485,9 @@
                 "first": 4123
             },
             "2019-08-23": {
-                "basic": 1244,
+                "basic": 1121,
                 "comfort": 1627,
-                "economy": 1346,
+                "economy": 1225,
                 "first": 4123
             }
         },
@@ -1054,9 +1054,9 @@
                 "first": 4233
             },
             "2019-08-23": {
-                "basic": 1126,
+                "basic": 777,
                 "comfort": 1416,
-                "economy": 1216,
+                "economy": 871,
                 "first": 4233
             }
         },
@@ -1375,9 +1375,9 @@
                 "first": 3654
             },
             "2019-08-23": {
-                "basic": 1051,
+                "basic": 916,
                 "comfort": 1396,
-                "economy": 1141,
+                "economy": 1009,
                 "first": 3654
             }
         },
