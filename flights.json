@@ -96,6 +96,12 @@
                 "comfort": 1241,
                 "economy": 1056,
                 "first": 4059
+            },
+            "2019-08-23": {
+                "basic": 1226,
+                "comfort": 1516,
+                "economy": 1316,
+                "first": 4059
             }
         },
         "BZN": {
@@ -193,6 +199,12 @@
                 "basic": 966,
                 "comfort": 1291,
                 "economy": 1056,
+                "first": 4059
+            },
+            "2019-08-23": {
+                "basic": 1226,
+                "comfort": 1566,
+                "economy": 1316,
                 "first": 4059
             }
         },
@@ -330,6 +342,12 @@
                 "comfort": 993,
                 "economy": 597,
                 "first": 3559
+            },
+            "2019-08-23": {
+                "basic": 1053,
+                "comfort": 1343,
+                "economy": 1143,
+                "first": 3559
             }
         },
         "GTF": {
@@ -339,6 +357,10 @@
             "2019-08-22": {
                 "comfort": 1914,
                 "economy": 1602
+            },
+            "2019-08-23": {
+                "comfort": 1949,
+                "economy": 1378
             }
         },
         "HLN": {
@@ -460,6 +482,12 @@
                 "basic": 1030,
                 "comfort": 1355,
                 "economy": 1120,
+                "first": 4123
+            },
+            "2019-08-23": {
+                "basic": 1244,
+                "comfort": 1627,
+                "economy": 1346,
                 "first": 4123
             }
         },
@@ -1024,6 +1052,12 @@
                 "comfort": 978,
                 "economy": 808,
                 "first": 4233
+            },
+            "2019-08-23": {
+                "basic": 1126,
+                "comfort": 1416,
+                "economy": 1216,
+                "first": 4233
             }
         },
         "PIH": {
@@ -1229,6 +1263,12 @@
                 "comfort": 1836,
                 "economy": 1011,
                 "first": 5813
+            },
+            "2019-08-23": {
+                "basic": 1166,
+                "comfort": 1981,
+                "economy": 1256,
+                "first": 5464
             }
         },
         "SLC": {
@@ -1333,6 +1373,12 @@
                 "comfort": 1106,
                 "economy": 900,
                 "first": 3654
+            },
+            "2019-08-23": {
+                "basic": 1051,
+                "comfort": 1396,
+                "economy": 1141,
+                "first": 3654
             }
         },
         "TWF": {
@@ -1342,6 +1388,10 @@
             },
             "2019-08-22": {
                 "economy": 1280,
+                "first": 9616
+            },
+            "2019-08-23": {
+                "economy": 1380,
                 "first": 9616
             }
         }
