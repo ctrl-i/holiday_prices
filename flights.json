@@ -228,6 +228,12 @@
                 "comfort": 1196,
                 "economy": 996,
                 "first": 3984
+            },
+            "2019-08-26": {
+                "basic": 906,
+                "comfort": 1146,
+                "economy": 996,
+                "first": 3984
             }
         },
         "COD": {
@@ -384,6 +390,12 @@
                 "basic": 444,
                 "comfort": 868,
                 "economy": 537,
+                "first": 3479
+            },
+            "2019-08-26": {
+                "basic": 477,
+                "comfort": 868,
+                "economy": 567,
                 "first": 3479
             }
         },
@@ -542,6 +554,12 @@
             "2019-08-25": {
                 "basic": 970,
                 "comfort": 1485,
+                "economy": 1060,
+                "first": 4048
+            },
+            "2019-08-26": {
+                "basic": 970,
+                "comfort": 1452,
                 "economy": 1060,
                 "first": 4048
             }
@@ -976,6 +994,10 @@
             "2019-08-25": {
                 "economy": 1926,
                 "first": 3984
+            },
+            "2019-08-26": {
+                "economy": 1926,
+                "first": 5584
             }
         },
         "PHX": {
@@ -1148,6 +1170,12 @@
                 "basic": 561,
                 "comfort": 903,
                 "economy": 654,
+                "first": 3708
+            },
+            "2019-08-26": {
+                "basic": 663,
+                "comfort": 903,
+                "economy": 753,
                 "first": 3708
             }
         },
@@ -1497,6 +1525,12 @@
             "2019-08-25": {
                 "basic": 750,
                 "comfort": 1076,
+                "economy": 840,
+                "first": 3579
+            },
+            "2019-08-26": {
+                "basic": 750,
+                "comfort": 1026,
                 "economy": 840,
                 "first": 3579
             }
