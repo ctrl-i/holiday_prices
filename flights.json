@@ -312,6 +312,18 @@
                 "comfort": 1666,
                 "economy": 1466,
                 "first": 5521
+            },
+            "2019-11-05": {
+                "comfort": 1001,
+                "economy": 881,
+                "first": 2859,
+                "premium": 1391
+            },
+            "2019-11-06": {
+                "comfort": 1594,
+                "economy": 891,
+                "first": 3536,
+                "premium": 1688
             }
         },
         "COD": {
