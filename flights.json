@@ -324,6 +324,12 @@
                 "economy": 891,
                 "first": 3536,
                 "premium": 2611
+            },
+            "2019-11-08": {
+                "comfort": 2042,
+                "economy": 840,
+                "first": 3536,
+                "premium": 2314
             }
         },
         "COD": {
@@ -2053,6 +2059,12 @@
                 "economy": 815,
                 "first": 3581,
                 "premium": 1632
+            },
+            "2019-11-08": {
+                "comfort": 1882,
+                "economy": 815,
+                "first": 3581,
+                "premium": 1094
             }
         },
         "TWF": {
