@@ -620,6 +620,13 @@
                 "economy": 1129,
                 "first": 7465,
                 "premium": 2835
+            },
+            "2019-11-11": {
+                "basic": 1039,
+                "comfort": 2075,
+                "economy": 1129,
+                "first": 7465,
+                "premium": 1127
             }
         },
         "HLN": {
@@ -2098,6 +2105,13 @@
                 "basic": 725,
                 "comfort": 1883,
                 "economy": 815,
+                "first": 3581,
+                "premium": 1094
+            },
+            "2019-11-11": {
+                "basic": 728,
+                "comfort": 1883,
+                "economy": 818,
                 "first": 3581,
                 "premium": 1094
             }
