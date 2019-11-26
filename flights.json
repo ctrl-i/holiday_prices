@@ -993,6 +993,13 @@
                 "economy": 1065,
                 "first": 3600,
                 "premium": 1158
+            },
+            "2019-11-26": {
+                "basic": 976,
+                "comfort": 2303,
+                "economy": 1066,
+                "first": 3601,
+                "premium": 1159
             }
         },
         "IDA": {
