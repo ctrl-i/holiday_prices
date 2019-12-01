@@ -830,6 +830,13 @@
                 "economy": 1033,
                 "first": 6234,
                 "premium": 1126
+            },
+            "2019-12-01": {
+                "basic": 941,
+                "comfort": 2292,
+                "economy": 1031,
+                "first": 7461,
+                "premium": 1124
             }
         },
         "HLN": {
