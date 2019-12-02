@@ -1077,6 +1077,13 @@
                 "economy": 1065,
                 "first": 3600,
                 "premium": 1158
+            },
+            "2019-12-02": {
+                "basic": 972,
+                "comfort": 2292,
+                "economy": 1062,
+                "first": 3597,
+                "premium": 1155
             }
         },
         "IDA": {
