@@ -449,6 +449,13 @@
                 "economy": 890,
                 "first": 3535,
                 "premium": 1093
+            },
+            "2019-12-03": {
+                "basic": 800,
+                "comfort": 2292,
+                "economy": 890,
+                "first": 3535,
+                "premium": 1827
             }
         },
         "COD": {
@@ -837,6 +844,13 @@
                 "economy": 1031,
                 "first": 7461,
                 "premium": 1124
+            },
+            "2019-12-03": {
+                "basic": 941,
+                "comfort": 2292,
+                "economy": 1031,
+                "first": 6231,
+                "premium": 2831
             }
         },
         "HLN": {
