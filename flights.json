@@ -2457,6 +2457,13 @@
                 "economy": 850,
                 "first": 3480,
                 "premium": 1093
+            },
+            "2019-12-04": {
+                "basic": 760,
+                "comfort": 2182,
+                "economy": 850,
+                "first": 3580,
+                "premium": 1093
             }
         },
         "TWF": {
