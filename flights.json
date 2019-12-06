@@ -206,6 +206,13 @@
                 "economy": 1016,
                 "first": 3551,
                 "premium": 1109
+            },
+            "2019-12-06": {
+                "basic": 926,
+                "comfort": 2013,
+                "economy": 1016,
+                "first": 3551,
+                "premium": 1843
             }
         },
         "BZN": {
@@ -879,6 +886,13 @@
                 "economy": 1031,
                 "first": 6231,
                 "premium": 4539
+            },
+            "2019-12-06": {
+                "basic": 941,
+                "comfort": 2028,
+                "economy": 1031,
+                "first": 6231,
+                "premium": 2831
             }
         },
         "HLN": {
