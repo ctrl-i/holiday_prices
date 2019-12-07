@@ -213,6 +213,13 @@
                 "economy": 1016,
                 "first": 3551,
                 "premium": 1843
+            },
+            "2019-12-07": {
+                "basic": 925,
+                "comfort": 2012,
+                "economy": 1015,
+                "first": 3550,
+                "premium": 1108
             }
         },
         "BZN": {
@@ -900,6 +907,13 @@
                 "economy": 1031,
                 "first": 6231,
                 "premium": 2831
+            },
+            "2019-12-07": {
+                "basic": 940,
+                "comfort": 2027,
+                "economy": 1030,
+                "first": 6230,
+                "premium": 2830
             }
         },
         "HLN": {
@@ -2527,6 +2541,13 @@
                 "economy": 850,
                 "first": 3580,
                 "premium": 1093
+            },
+            "2019-12-07": {
+                "basic": 759,
+                "comfort": 1838,
+                "economy": 849,
+                "first": 3579,
+                "premium": 1092
             }
         },
         "TWF": {
