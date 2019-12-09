@@ -227,6 +227,13 @@
                 "economy": 1015,
                 "first": 3550,
                 "premium": 1842
+            },
+            "2019-12-09": {
+                "basic": 925,
+                "comfort": 2012,
+                "economy": 1015,
+                "first": 3550,
+                "premium": 1108
             }
         },
         "BZN": {
@@ -505,6 +512,13 @@
                 "economy": 850,
                 "first": 3535,
                 "premium": 1827
+            },
+            "2019-12-09": {
+                "basic": 759,
+                "comfort": 1996,
+                "economy": 849,
+                "first": 3534,
+                "premium": 1092
             }
         },
         "COD": {
