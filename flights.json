@@ -2772,6 +2772,13 @@
                 "economy": 930,
                 "first": 1999,
                 "premium": 1521
+            },
+            "2019-12-22": {
+                "basic": 840,
+                "comfort": 1838,
+                "economy": 930,
+                "first": 2037,
+                "premium": 1521
             }
         },
         "TWF": {
