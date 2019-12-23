@@ -603,6 +603,13 @@
                 "economy": 1054,
                 "first": 1998,
                 "premium": 1700
+            },
+            "2019-12-23": {
+                "basic": 955,
+                "comfort": 1997,
+                "economy": 1055,
+                "first": 3557,
+                "premium": 1701
             }
         },
         "COD": {
@@ -2778,6 +2785,13 @@
                 "comfort": 1838,
                 "economy": 930,
                 "first": 2037,
+                "premium": 1521
+            },
+            "2019-12-23": {
+                "basic": 840,
+                "comfort": 1838,
+                "economy": 930,
+                "first": 3216,
                 "premium": 1521
             }
         },
