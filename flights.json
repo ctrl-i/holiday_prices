@@ -666,6 +666,13 @@
                 "economy": 1055,
                 "first": 1999,
                 "premium": 1701
+            },
+            "2020-01-01": {
+                "basic": 955,
+                "comfort": 1997,
+                "economy": 1055,
+                "first": 1999,
+                "premium": 1701
             }
         },
         "COD": {
@@ -1191,7 +1198,7 @@
             "2020-01-01": {
                 "basic": 996,
                 "comfort": 2028,
-                "economy": 1086,
+                "economy": 1075,
                 "first": 7832,
                 "premium": 1732
             }
