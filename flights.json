@@ -304,6 +304,13 @@
                 "economy": 1069,
                 "first": 3571,
                 "premium": 3093
+            },
+            "2020-01-03": {
+                "basic": 945,
+                "comfort": 2011,
+                "economy": 1044,
+                "first": 3571,
+                "premium": 2644
             }
         },
         "BZN": {
@@ -2981,6 +2988,13 @@
                 "comfort": 1842,
                 "economy": 898,
                 "first": 2036
+            },
+            "2020-01-03": {
+                "basic": 808,
+                "comfort": 1838,
+                "economy": 898,
+                "first": 1998,
+                "premium": 1520
             }
         },
         "TWF": {
