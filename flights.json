@@ -317,7 +317,7 @@
                 "comfort": 2011,
                 "economy": 1069,
                 "first": 3571,
-                "premium": 2644
+                "premium": 1715
             }
         },
         "BZN": {
@@ -694,6 +694,13 @@
                 "economy": 1055,
                 "first": 1999,
                 "premium": 1701
+            },
+            "2020-01-04": {
+                "basic": 964,
+                "comfort": 1996,
+                "economy": 1054,
+                "first": 1998,
+                "premium": 1700
             }
         },
         "COD": {
