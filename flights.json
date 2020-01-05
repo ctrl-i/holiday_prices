@@ -701,6 +701,13 @@
                 "economy": 1054,
                 "first": 1998,
                 "premium": 1700
+            },
+            "2020-01-05": {
+                "basic": 954,
+                "comfort": 1996,
+                "economy": 1054,
+                "first": 1998,
+                "premium": 1700
             }
         },
         "COD": {
@@ -1236,6 +1243,13 @@
                 "economy": 1085,
                 "first": 7831,
                 "premium": 3153
+            },
+            "2020-01-05": {
+                "basic": 995,
+                "comfort": 2027,
+                "economy": 1085,
+                "first": 7831,
+                "premium": 1731
             }
         },
         "HLN": {
