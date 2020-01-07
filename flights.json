@@ -1271,6 +1271,13 @@
                 "economy": 980,
                 "first": 7831,
                 "premium": 1731
+            },
+            "2020-01-07": {
+                "basic": 891,
+                "comfort": 2028,
+                "economy": 981,
+                "first": 7832,
+                "premium": 1732
             }
         },
         "HLN": {
@@ -3051,6 +3058,13 @@
                 "economy": 829,
                 "first": 1998,
                 "premium": 2062
+            },
+            "2020-01-07": {
+                "basic": 740,
+                "comfort": 1843,
+                "economy": 830,
+                "first": 1999,
+                "premium": 2063
             }
         },
         "TWF": {
