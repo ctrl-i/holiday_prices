@@ -1672,6 +1672,13 @@
                 "economy": 1011,
                 "first": 3306,
                 "premium": 1014
+            },
+            "2020-01-24": {
+                "basic": 596,
+                "comfort": 2041,
+                "economy": 686,
+                "first": 3306,
+                "premium": 1762
             }
         },
         "IDA": {
