@@ -3261,6 +3261,13 @@
                 "economy": 731,
                 "first": 1995,
                 "premium": 1521
+            },
+            "2020-01-24": {
+                "basic": 641,
+                "comfort": 1841,
+                "economy": 731,
+                "first": 2013,
+                "premium": 1521
             }
         },
         "TWF": {
