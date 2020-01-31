@@ -353,6 +353,13 @@
                 "economy": 1063,
                 "first": 1849,
                 "premium": 1716
+            },
+            "2020-01-31": {
+                "basic": 980,
+                "comfort": 2010,
+                "economy": 1070,
+                "first": 1849,
+                "premium": 1716
             }
         },
         "BZN": {
@@ -1445,6 +1452,13 @@
                 "comfort": 2026,
                 "economy": 1086,
                 "first": 5721,
+                "premium": 1732
+            },
+            "2020-01-31": {
+                "basic": 1061,
+                "comfort": 2026,
+                "economy": 1086,
+                "first": 7001,
                 "premium": 1732
             }
         },
