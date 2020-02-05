@@ -848,6 +848,13 @@
                 "economy": 1054,
                 "first": 1998,
                 "premium": 1700
+            },
+            "2020-02-05": {
+                "basic": 965,
+                "comfort": 1995,
+                "economy": 1055,
+                "first": 3119,
+                "premium": 1701
             }
         },
         "COD": {
