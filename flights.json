@@ -855,6 +855,13 @@
                 "economy": 1055,
                 "first": 3119,
                 "premium": 1701
+            },
+            "2020-02-06": {
+                "basic": 965,
+                "comfort": 1995,
+                "economy": 1055,
+                "first": 1999,
+                "premium": 1701
             }
         },
         "COD": {
@@ -3443,6 +3450,13 @@
                 "economy": 930,
                 "first": 2246,
                 "premium": 1520
+            },
+            "2020-02-06": {
+                "basic": 841,
+                "comfort": 1837,
+                "economy": 931,
+                "first": 1999,
+                "premium": 1521
             }
         },
         "TWF": {
