@@ -381,6 +381,13 @@
                 "economy": 1070,
                 "first": 3572,
                 "premium": 2166
+            },
+            "2020-02-08": {
+                "basic": 981,
+                "comfort": 2011,
+                "economy": 1071,
+                "first": 3573,
+                "premium": 2167
             }
         },
         "BZN": {
@@ -1558,6 +1565,13 @@
                 "economy": 1086,
                 "first": 7832,
                 "premium": 2181
+            },
+            "2020-02-08": {
+                "basic": 1012,
+                "comfort": 2027,
+                "economy": 1087,
+                "first": 7833,
+                "premium": 2182
             }
         },
         "HLN": {
