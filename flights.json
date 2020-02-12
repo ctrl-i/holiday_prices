@@ -883,6 +883,13 @@
                 "economy": 1056,
                 "first": 2000,
                 "premium": 2151
+            },
+            "2020-02-12": {
+                "basic": 966,
+                "comfort": 1996,
+                "economy": 1056,
+                "first": 2000,
+                "premium": 2151
             }
         },
         "COD": {
@@ -3519,6 +3526,13 @@
                 "comfort": 1838,
                 "economy": 932,
                 "first": 2000,
+                "premium": 2064
+            },
+            "2020-02-12": {
+                "basic": 841,
+                "comfort": 1837,
+                "economy": 931,
+                "first": 3120,
                 "premium": 2064
             }
         },
