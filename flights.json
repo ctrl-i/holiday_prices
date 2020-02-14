@@ -1968,10 +1968,10 @@
                 "premium": 1762
             },
             "2020-02-14": {
-                "basic": 955,
+                "basic": 1026,
                 "comfort": 2041,
-                "economy": 1056,
-                "first": 4114,
+                "economy": 1075,
+                "first": 3618,
                 "premium": 2116
             }
         },
@@ -3602,7 +3602,7 @@
                 "basic": 841,
                 "comfort": 1837,
                 "economy": 931,
-                "first": 2247,
+                "first": 2321,
                 "premium": 1967
             }
         },
