@@ -965,7 +965,7 @@
                 "basic": 955,
                 "comfort": 1995,
                 "economy": 1055,
-                "first": 1999,
+                "first": 3119,
                 "premium": 2034
             }
         },
@@ -3687,6 +3687,13 @@
                 "comfort": 1836,
                 "economy": 930,
                 "first": 1999,
+                "premium": 1977
+            },
+            "2020-02-19": {
+                "basic": 841,
+                "comfort": 1837,
+                "economy": 931,
+                "first": 3119,
                 "premium": 1977
             }
         },
