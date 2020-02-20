@@ -967,6 +967,13 @@
                 "economy": 1055,
                 "first": 3119,
                 "premium": 2034
+            },
+            "2020-02-20": {
+                "basic": 955,
+                "comfort": 1995,
+                "economy": 1055,
+                "first": 3319,
+                "premium": 2034
             }
         },
         "COD": {
@@ -1711,6 +1718,13 @@
                 "comfort": 2026,
                 "economy": 1056,
                 "first": 6552,
+                "premium": 2161
+            },
+            "2020-02-20": {
+                "basic": 996,
+                "comfort": 2026,
+                "economy": 1056,
+                "first": 7025,
                 "premium": 2161
             }
         },
@@ -3694,6 +3708,13 @@
                 "comfort": 1837,
                 "economy": 931,
                 "first": 3119,
+                "premium": 1977
+            },
+            "2020-02-20": {
+                "basic": 841,
+                "comfort": 1837,
+                "economy": 931,
+                "first": 1999,
                 "premium": 1977
             }
         },
