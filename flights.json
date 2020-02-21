@@ -1733,6 +1733,13 @@
                 "economy": 1071,
                 "first": 7025,
                 "premium": 2176
+            },
+            "2020-02-21": {
+                "basic": 1011,
+                "comfort": 2041,
+                "economy": 1071,
+                "first": 6552,
+                "premium": 2176
             }
         },
         "HLN": {
@@ -2064,6 +2071,13 @@
                 "economy": 1056,
                 "first": 3618,
                 "premium": 2116
+            },
+            "2020-02-21": {
+                "basic": 970,
+                "comfort": 2056,
+                "economy": 1071,
+                "first": 3618,
+                "premium": 2111
             }
         },
         "IDA": {
