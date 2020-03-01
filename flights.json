@@ -3898,6 +3898,13 @@
                 "economy": 938,
                 "first": 2000,
                 "premium": 1918
+            },
+            "2020-03-01": {
+                "basic": 867,
+                "comfort": 1860,
+                "economy": 957,
+                "first": 2000,
+                "premium": 1918
             }
         },
         "TWF": {
