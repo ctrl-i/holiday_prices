@@ -484,7 +484,7 @@
                 "basic": 972,
                 "comfort": 2032,
                 "economy": 1071,
-                "first": 3473,
+                "first": 3373,
                 "premium": 2545
             }
         },
@@ -1098,7 +1098,7 @@
                 "basic": 981,
                 "comfort": 2017,
                 "economy": 1081,
-                "first": 1900,
+                "first": 1800,
                 "premium": 2530
             }
         },
@@ -1920,7 +1920,7 @@
                 "basic": 1022,
                 "comfort": 2048,
                 "economy": 1082,
-                "first": 6454,
+                "first": 6354,
                 "premium": 2657
             }
         },
@@ -4001,7 +4001,7 @@
                 "basic": 867,
                 "comfort": 1860,
                 "economy": 957,
-                "first": 1900,
+                "first": 1800,
                 "premium": 1918
             }
         },
