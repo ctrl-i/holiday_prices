@@ -1121,6 +1121,13 @@
                 "economy": 1081,
                 "first": 1700,
                 "premium": 2530
+            },
+            "2020-03-11": {
+                "basic": 980,
+                "comfort": 2016,
+                "economy": 1080,
+                "first": 2099,
+                "premium": 2529
             }
         },
         "COD": {
@@ -4064,7 +4071,7 @@
                 "basic": 866,
                 "comfort": 1859,
                 "economy": 956,
-                "first": 1699,
+                "first": 2099,
                 "premium": 1917
             }
         },
