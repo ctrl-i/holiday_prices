@@ -2034,6 +2034,13 @@
                 "economy": 1083,
                 "first": 4063,
                 "premium": 2658
+            },
+            "2020-03-18": {
+                "basic": 1026,
+                "comfort": 2052,
+                "economy": 1086,
+                "first": 6389,
+                "premium": 2661
             }
         },
         "HLN": {
@@ -4190,6 +4197,13 @@
                 "basic": 871,
                 "comfort": 1864,
                 "economy": 961,
+                "first": 3292,
+                "premium": 2007
+            },
+            "2020-03-18": {
+                "basic": 852,
+                "comfort": 1864,
+                "economy": 942,
                 "first": 3292,
                 "premium": 2007
             }
