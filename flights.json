@@ -2060,7 +2060,7 @@
                 "basic": 1027,
                 "comfort": 2053,
                 "economy": 1087,
-                "first": 6390,
+                "first": 4067,
                 "premium": 2662
             }
         },
@@ -2435,6 +2435,13 @@
                 "economy": 1083,
                 "first": 3525,
                 "premium": 2593
+            },
+            "2020-03-19": {
+                "basic": 986,
+                "comfort": 2069,
+                "economy": 1087,
+                "first": 3529,
+                "premium": 2597
             }
         },
         "IDA": {
