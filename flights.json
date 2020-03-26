@@ -542,6 +542,13 @@
                 "economy": 1080,
                 "first": 3582,
                 "premium": 2554
+            },
+            "2020-03-26": {
+                "basic": 979,
+                "comfort": 2039,
+                "economy": 1078,
+                "first": 3580,
+                "premium": 2552
             }
         },
         "BZN": {
@@ -1226,6 +1233,13 @@
                 "economy": 1090,
                 "first": 3567,
                 "premium": 2539
+            },
+            "2020-03-26": {
+                "basic": 988,
+                "comfort": 2024,
+                "economy": 1088,
+                "first": 3565,
+                "premium": 2537
             }
         },
         "COD": {
