@@ -2188,6 +2188,13 @@
                 "economy": 1056,
                 "first": 3563,
                 "premium": 2065
+            },
+            "2020-03-31": {
+                "basic": 995,
+                "comfort": 2021,
+                "economy": 1055,
+                "first": 3562,
+                "premium": 2064
             }
         },
         "HLN": {
@@ -4437,6 +4444,13 @@
                 "economy": 912,
                 "first": 3573,
                 "premium": 1445
+            },
+            "2020-03-31": {
+                "basic": 821,
+                "comfort": 1832,
+                "economy": 911,
+                "first": 3571,
+                "premium": 1444
             }
         },
         "TWF": {
