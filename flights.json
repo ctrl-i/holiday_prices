@@ -2603,6 +2603,13 @@
                 "economy": 1056,
                 "first": 3498,
                 "premium": 2096
+            },
+            "2020-03-31": {
+                "basic": 954,
+                "comfort": 2037,
+                "economy": 1055,
+                "first": 3497,
+                "premium": 2095
             }
         },
         "IDA": {
