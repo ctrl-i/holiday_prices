@@ -1305,9 +1305,9 @@
                 "premium": 1544
             },
             "2020-04-02": {
-                "basic": 964,
+                "basic": 883,
                 "comfort": 2011,
-                "economy": 1054,
+                "economy": 973,
                 "first": 3531,
                 "premium": 1544
             }
@@ -2673,6 +2673,13 @@
                 "economy": 1055,
                 "first": 3497,
                 "premium": 2118
+            },
+            "2020-04-02": {
+                "basic": 1026,
+                "comfort": 2055,
+                "economy": 1116,
+                "first": 3497,
+                "premium": 2085
             }
         },
         "IDA": {
@@ -4526,6 +4533,13 @@
                 "basic": 839,
                 "comfort": 1850,
                 "economy": 929,
+                "first": 3571,
+                "premium": 1966
+            },
+            "2020-04-02": {
+                "basic": 831,
+                "comfort": 1850,
+                "economy": 921,
                 "first": 3571,
                 "premium": 1966
             }
