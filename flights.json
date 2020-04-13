@@ -598,6 +598,13 @@
                 "economy": 1120,
                 "first": 3511,
                 "premium": 2100
+            },
+            "2020-04-13": {
+                "basic": 988,
+                "comfort": 1989,
+                "economy": 1089,
+                "first": 3576,
+                "premium": 2165
             }
         },
         "BZN": {
@@ -1345,6 +1352,13 @@
                 "economy": 1115,
                 "first": 3592,
                 "premium": 1605
+            },
+            "2020-04-13": {
+                "basic": 994,
+                "comfort": 1974,
+                "economy": 1084,
+                "first": 3561,
+                "premium": 1670
             }
         },
         "COD": {
@@ -2307,6 +2321,13 @@
                 "economy": 1146,
                 "first": 3623,
                 "premium": 2115
+            },
+            "2020-04-13": {
+                "basic": 1025,
+                "comfort": 2005,
+                "economy": 1115,
+                "first": 3592,
+                "premium": 2180
             }
         },
         "HLN": {
@@ -4640,6 +4661,13 @@
                 "economy": 990,
                 "first": 3632,
                 "premium": 1485
+            },
+            "2020-04-13": {
+                "basic": 870,
+                "comfort": 1814,
+                "economy": 960,
+                "first": 3602,
+                "premium": 1550
             }
         },
         "TWF": {
