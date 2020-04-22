@@ -626,6 +626,13 @@
                 "economy": 1138,
                 "first": 3560,
                 "premium": 1867
+            },
+            "2020-04-23": {
+                "basic": 1049,
+                "comfort": 3886,
+                "economy": 1139,
+                "first": 3561,
+                "premium": 1868
             }
         },
         "BZN": {
@@ -2391,6 +2398,13 @@
                 "economy": 1154,
                 "first": 3637,
                 "premium": 1882
+            },
+            "2020-04-23": {
+                "basic": 1065,
+                "comfort": 4081,
+                "economy": 1155,
+                "first": 3638,
+                "premium": 1883
             }
         },
         "HLN": {
