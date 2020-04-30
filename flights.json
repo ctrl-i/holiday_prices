@@ -647,6 +647,13 @@
                 "economy": 1139,
                 "first": 3561,
                 "premium": 1868
+            },
+            "2020-05-01": {
+                "basic": 1050,
+                "comfort": 1523,
+                "economy": 1140,
+                "first": 3561,
+                "premium": 1869
             }
         },
         "BZN": {
@@ -2918,6 +2925,13 @@
                 "economy": 1186,
                 "first": 3716,
                 "premium": 1914
+            },
+            "2020-05-01": {
+                "basic": 1099,
+                "comfort": 1572,
+                "economy": 1189,
+                "first": 3723,
+                "premium": 1917
             }
         },
         "IDA": {
