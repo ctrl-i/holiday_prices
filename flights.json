@@ -4973,6 +4973,13 @@
                 "economy": 999,
                 "first": 3601,
                 "premium": 1549
+            },
+            "2020-05-08": {
+                "basic": 910,
+                "comfort": 1383,
+                "economy": 1000,
+                "first": 3602,
+                "premium": 1550
             }
         },
         "TWF": {
