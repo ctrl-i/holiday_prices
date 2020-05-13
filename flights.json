@@ -1485,6 +1485,13 @@
                 "economy": 1124,
                 "first": 3861,
                 "premium": 1670
+            },
+            "2020-05-14": {
+                "basic": 1035,
+                "comfort": 1508,
+                "economy": 1125,
+                "first": 3862,
+                "premium": 1671
             }
         },
         "COD": {
@@ -2531,6 +2538,13 @@
                 "economy": 1156,
                 "first": 3942,
                 "premium": 1885
+            },
+            "2020-05-14": {
+                "basic": 1067,
+                "comfort": 1540,
+                "economy": 1157,
+                "first": 3943,
+                "premium": 1886
             }
         },
         "HLN": {
@@ -3016,6 +3030,13 @@
                 "economy": 1189,
                 "first": 3723,
                 "premium": 1917
+            },
+            "2020-05-14": {
+                "basic": 1100,
+                "comfort": 1573,
+                "economy": 1190,
+                "first": 4024,
+                "premium": 1918
             }
         },
         "IDA": {
