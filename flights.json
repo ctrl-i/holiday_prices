@@ -689,6 +689,13 @@
                 "economy": 1141,
                 "first": 1921,
                 "premium": 1902
+            },
+            "2020-05-19": {
+                "basic": 1052,
+                "comfort": 1525,
+                "economy": 1142,
+                "first": 1922,
+                "premium": 1903
             }
         },
         "BZN": {
@@ -2573,6 +2580,13 @@
                 "economy": 1157,
                 "first": 2002,
                 "premium": 1918
+            },
+            "2020-05-19": {
+                "basic": 1068,
+                "comfort": 1541,
+                "economy": 1158,
+                "first": 2003,
+                "premium": 1919
             }
         },
         "HLN": {
