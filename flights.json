@@ -696,6 +696,13 @@
                 "economy": 1142,
                 "first": 3863,
                 "premium": 1903
+            },
+            "2020-05-21": {
+                "basic": 1051,
+                "comfort": 1524,
+                "economy": 1141,
+                "first": 3862,
+                "premium": 1902
             }
         },
         "BZN": {
@@ -1527,6 +1534,13 @@
                 "economy": 1126,
                 "first": 3863,
                 "premium": 1737
+            },
+            "2020-05-21": {
+                "basic": 1035,
+                "comfort": 1508,
+                "economy": 1125,
+                "first": 3862,
+                "premium": 1736
             }
         },
         "COD": {
@@ -2594,6 +2608,13 @@
                 "economy": 1158,
                 "first": 4244,
                 "premium": 1919
+            },
+            "2020-05-21": {
+                "basic": 1067,
+                "comfort": 1540,
+                "economy": 1157,
+                "first": 4243,
+                "premium": 1918
             }
         },
         "HLN": {
