@@ -1597,6 +1597,13 @@
                 "economy": 1125,
                 "first": 3862,
                 "premium": 1778
+            },
+            "2020-06-03": {
+                "basic": 1034,
+                "comfort": 1507,
+                "economy": 1124,
+                "first": 3861,
+                "premium": 1777
             }
         },
         "COD": {
@@ -3212,6 +3219,13 @@
                 "economy": 1191,
                 "first": 4025,
                 "premium": 1919
+            },
+            "2020-06-03": {
+                "basic": 1098,
+                "comfort": 1571,
+                "economy": 1188,
+                "first": 4022,
+                "premium": 1842
             }
         },
         "IDA": {
