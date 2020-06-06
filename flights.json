@@ -2760,6 +2760,13 @@
                 "comfort": 1881,
                 "economy": 1156,
                 "first": 4241
+            },
+            "2020-06-06": {
+                "basic": 1066,
+                "comfort": 1839,
+                "economy": 1156,
+                "first": 3941,
+                "premium": 1810
             }
         },
         "HLN": {
