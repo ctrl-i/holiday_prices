@@ -759,6 +759,13 @@
                 "economy": 1139,
                 "first": 4160,
                 "premium": 1793
+            },
+            "2020-06-16": {
+                "basic": 1050,
+                "comfort": 1523,
+                "economy": 1140,
+                "first": 4161,
+                "premium": 1794
             }
         },
         "BZN": {
@@ -5412,6 +5419,13 @@
                 "economy": 999,
                 "first": 4043,
                 "premium": 2342
+            },
+            "2020-06-16": {
+                "basic": 910,
+                "comfort": 1383,
+                "economy": 1000,
+                "first": 4044,
+                "premium": 2343
             }
         },
         "TWF": {
