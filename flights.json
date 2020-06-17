@@ -3364,6 +3364,13 @@
                 "economy": 1187,
                 "first": 4021,
                 "premium": 1841
+            },
+            "2020-06-18": {
+                "basic": 1098,
+                "comfort": 1571,
+                "economy": 1188,
+                "first": 4322,
+                "premium": 1842
             }
         },
         "IDA": {
@@ -5440,6 +5447,12 @@
                 "economy": 1000,
                 "first": 4044,
                 "premium": 2343
+            },
+            "2020-06-18": {
+                "basic": 909,
+                "comfort": 1382,
+                "economy": 999,
+                "first": 4044
             }
         },
         "TWF": {
