@@ -1701,6 +1701,12 @@
                 "basic": 1130,
                 "comfort": 1740,
                 "economy": 1220
+            },
+            "2020-07-09": {
+                "basic": 1034,
+                "comfort": 1423,
+                "economy": 1124,
+                "first": 4161
             }
         },
         "COD": {
