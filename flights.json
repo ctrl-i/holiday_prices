@@ -5785,6 +5785,12 @@
                 "comfort": 1089,
                 "economy": 959,
                 "first": 1925
+            },
+            "2021-03-12": {
+                "basic": 885,
+                "comfort": 1115,
+                "economy": 975,
+                "first": 2072
             }
         },
         "TWF": {
