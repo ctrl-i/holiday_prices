@@ -847,7 +847,7 @@
             },
             "2021-03-18": {
                 "basic": 979,
-                "comfort": 1219,
+                "comfort": 1169,
                 "economy": 1069,
                 "first": 5279
             }
@@ -1791,9 +1791,9 @@
                 "first": 2450
             },
             "2021-03-18": {
-                "basic": 1004,
-                "comfort": 1219,
-                "economy": 1094,
+                "basic": 979,
+                "comfort": 1169,
+                "economy": 1069,
                 "first": 5279
             }
         },
@@ -5899,6 +5899,12 @@
             "2021-03-17": {
                 "basic": 870,
                 "comfort": 1148,
+                "economy": 960,
+                "first": 2072
+            },
+            "2021-03-18": {
+                "basic": 870,
+                "comfort": 1130,
                 "economy": 960,
                 "first": 2072
             }
