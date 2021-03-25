@@ -874,6 +874,12 @@
                 "comfort": 1224,
                 "economy": 1099,
                 "first": 3733
+            },
+            "2021-03-25": {
+                "basic": 1009,
+                "comfort": 1194,
+                "economy": 1099,
+                "first": 3733
             }
         },
         "BZN": {
@@ -1835,6 +1841,12 @@
             "2021-03-23": {
                 "basic": 1009,
                 "comfort": 1199,
+                "economy": 1099,
+                "first": 3733
+            },
+            "2021-03-25": {
+                "basic": 1009,
+                "comfort": 1169,
                 "economy": 1099,
                 "first": 3733
             }
@@ -3146,6 +3158,12 @@
             "2021-03-24": {
                 "basic": 1064,
                 "comfort": 1884,
+                "economy": 1154,
+                "first": 8027
+            },
+            "2021-03-25": {
+                "basic": 1064,
+                "comfort": 1854,
                 "economy": 1154,
                 "first": 8027
             }
@@ -6008,6 +6026,13 @@
             "2021-03-23": {
                 "basic": 900,
                 "comfort": 1160,
+                "economy": 990,
+                "first": 3801,
+                "premium": 1494
+            },
+            "2021-03-25": {
+                "basic": 900,
+                "comfort": 1130,
                 "economy": 990,
                 "first": 3801,
                 "premium": 1494
