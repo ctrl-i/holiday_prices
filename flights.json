@@ -1927,6 +1927,12 @@
                 "comfort": 1168,
                 "economy": 908,
                 "first": 3680
+            },
+            "2021-04-03": {
+                "basic": 818,
+                "comfort": 1193,
+                "economy": 908,
+                "first": 3680
             }
         },
         "COD": {
@@ -3289,8 +3295,8 @@
             },
             "2021-04-03": {
                 "basic": 1058,
-                "comfort": 1223,
-                "economy": 1013,
+                "comfort": 1908,
+                "economy": 1148,
                 "first": 6447
             }
         },
@@ -6202,7 +6208,7 @@
                 "comfort": 1115,
                 "economy": 832,
                 "first": 3849,
-                "premium": 2658
+                "premium": 1464
             }
         },
         "TWF": {
