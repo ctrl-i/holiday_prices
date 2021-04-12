@@ -940,6 +940,12 @@
                 "comfort": 1168,
                 "economy": 1068,
                 "first": 3680
+            },
+            "2021-04-12": {
+                "basic": 979,
+                "comfort": 1194,
+                "economy": 1069,
+                "first": 3681
             }
         },
         "BZN": {
@@ -3381,6 +3387,12 @@
                 "basic": 1134,
                 "comfort": 2034,
                 "economy": 1179,
+                "first": 3981
+            },
+            "2021-04-12": {
+                "basic": 1109,
+                "comfort": 2034,
+                "economy": 1154,
                 "first": 3981
             }
         },
