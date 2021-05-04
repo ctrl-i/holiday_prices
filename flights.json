@@ -3610,6 +3610,12 @@
                 "comfort": 2129,
                 "economy": 1124,
                 "first": 3935
+            },
+            "2021-05-04": {
+                "basic": 1005,
+                "comfort": 2130,
+                "economy": 1095,
+                "first": 3636
             }
         },
         "HLN": {
@@ -6665,6 +6671,13 @@
                 "economy": 931,
                 "first": 3804,
                 "premium": 2441
+            },
+            "2021-05-04": {
+                "basic": 842,
+                "comfort": 1170,
+                "economy": 932,
+                "first": 3805,
+                "premium": 2719
             }
         },
         "TWF": {
