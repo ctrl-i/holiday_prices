@@ -1036,6 +1036,12 @@
                 "comfort": 1139,
                 "economy": 1039,
                 "first": 3635
+            },
+            "2021-05-14": {
+                "basic": 948,
+                "comfort": 1163,
+                "economy": 1038,
+                "first": 3634
             }
         },
         "BZN": {
@@ -6846,7 +6852,7 @@
                 "comfort": 1150,
                 "economy": 930,
                 "first": 3803,
-                "premium": 2440
+                "premium": 2717
             }
         },
         "TWF": {
