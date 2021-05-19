@@ -1054,6 +1054,12 @@
                 "comfort": 1163,
                 "economy": 1038,
                 "first": 3634
+            },
+            "2021-05-19": {
+                "basic": 948,
+                "comfort": 1138,
+                "economy": 1038,
+                "first": 3634
             }
         },
         "BZN": {
@@ -3736,6 +3742,12 @@
                 "comfort": 1274,
                 "economy": 1039,
                 "first": 3635
+            },
+            "2021-05-19": {
+                "basic": 948,
+                "comfort": 1223,
+                "economy": 1038,
+                "first": 3634
             }
         },
         "HLN": {
@@ -6893,6 +6905,13 @@
                 "economy": 930,
                 "first": 3803,
                 "premium": 1988
+            },
+            "2021-05-19": {
+                "basic": 840,
+                "comfort": 1150,
+                "economy": 930,
+                "first": 3803,
+                "premium": 2717
             }
         },
         "TWF": {
