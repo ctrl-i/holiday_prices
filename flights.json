@@ -2190,6 +2190,12 @@
             },
             "2019-08-27": {
                 "economy": 1171
+            },
+            "2021-05-30": {
+                "basic": 876,
+                "comfort": 1066,
+                "economy": 966,
+                "first": 6254
             }
         },
         "DEN": {
@@ -2388,6 +2394,13 @@
                 "economy": 1062,
                 "first": 2991,
                 "premium": 1590
+            },
+            "2021-05-30": {
+                "basic": 593,
+                "comfort": 783,
+                "economy": 683,
+                "first": 3512,
+                "premium": 1962
             }
         },
         "GTF": {
@@ -4588,6 +4601,12 @@
                 "comfort": 1574,
                 "economy": 1124,
                 "first": 3561
+            },
+            "2021-05-30": {
+                "basic": 1054,
+                "comfort": 1244,
+                "economy": 1144,
+                "first": 9069
             }
         },
         "JAC": {
@@ -4888,6 +4907,12 @@
                 "comfort": 1574,
                 "economy": 1124,
                 "first": 3561
+            },
+            "2021-05-30": {
+                "basic": 876,
+                "comfort": 1066,
+                "economy": 966,
+                "first": 7534
             }
         },
         "PHX": {
@@ -5104,6 +5129,13 @@
                 "economy": 1043,
                 "first": 3773,
                 "premium": 1539
+            },
+            "2021-05-30": {
+                "basic": 686,
+                "comfort": 876,
+                "economy": 776,
+                "first": 3736,
+                "premium": 1913
             }
         },
         "PIH": {
@@ -5163,6 +5195,11 @@
                 "comfort": 1651,
                 "economy": 1201,
                 "first": 3638
+            },
+            "2021-05-30": {
+                "comfort": 1268,
+                "economy": 1168,
+                "first": 3934
             }
         },
         "RAP": {
@@ -5440,6 +5477,12 @@
                 "economy": 1064,
                 "first": 3278,
                 "premium": 1961
+            },
+            "2021-05-30": {
+                "basic": 847,
+                "comfort": 1907,
+                "economy": 937,
+                "first": 3189
             }
         },
         "SLC": {
@@ -7014,6 +7057,11 @@
                 "comfort": 1636,
                 "economy": 1186,
                 "first": 3716
+            },
+            "2021-05-30": {
+                "comfort": 1209,
+                "economy": 1109,
+                "first": 3920
             }
         }
     }
