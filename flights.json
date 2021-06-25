@@ -3935,6 +3935,12 @@
                 "comfort": 1359,
                 "economy": 1089,
                 "first": 4285
+            },
+            "2021-06-26": {
+                "basic": 999,
+                "comfort": 1309,
+                "economy": 1089,
+                "first": 4285
             }
         },
         "HLN": {
@@ -4539,6 +4545,12 @@
                 "comfort": 1188,
                 "economy": 1088,
                 "first": 4284
+            },
+            "2021-06-26": {
+                "basic": 999,
+                "comfort": 1309,
+                "economy": 1089,
+                "first": 4585
             }
         },
         "IDA": {
