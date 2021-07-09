@@ -2257,6 +2257,12 @@
                 "comfort": 1259,
                 "economy": 1039,
                 "first": 5985
+            },
+            "2021-07-09": {
+                "basic": 949,
+                "comfort": 1259,
+                "economy": 1039,
+                "first": 4235
             }
         },
         "COD": {
@@ -3981,6 +3987,12 @@
             "2021-07-04": {
                 "basic": 998,
                 "comfort": 1308,
+                "economy": 1088,
+                "first": 4584
+            },
+            "2021-07-09": {
+                "basic": 998,
+                "comfort": 1188,
                 "economy": 1088,
                 "first": 4584
             }
