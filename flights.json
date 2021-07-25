@@ -2316,6 +2316,12 @@
                 "basic": 950,
                 "economy": 1040,
                 "first": 4236
+            },
+            "2021-07-26": {
+                "basic": 949,
+                "comfort": 1259,
+                "economy": 1039,
+                "first": 4535
             }
         },
         "COD": {
