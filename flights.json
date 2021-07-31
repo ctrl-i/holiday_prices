@@ -1132,6 +1132,12 @@
                 "comfort": 1317,
                 "economy": 1097,
                 "first": 4833
+            },
+            "2021-08-01": {
+                "basic": 1000,
+                "comfort": 1320,
+                "economy": 1100,
+                "first": 4836
             }
         },
         "BZN": {
@@ -4120,6 +4126,12 @@
                 "comfort": 1317,
                 "economy": 1097,
                 "first": 4833
+            },
+            "2021-08-01": {
+                "basic": 1000,
+                "comfort": 1320,
+                "economy": 1100,
+                "first": 4836
             }
         },
         "HLN": {
