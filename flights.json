@@ -4809,6 +4809,12 @@
                 "comfort": 1308,
                 "economy": 1088,
                 "first": 6976
+            },
+            "2021-08-16": {
+                "basic": 1000,
+                "comfort": 1320,
+                "economy": 1100,
+                "first": 6161
             }
         },
         "IDA": {
