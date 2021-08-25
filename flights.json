@@ -4869,6 +4869,11 @@
                 "comfort": 1320,
                 "economy": 1100,
                 "first": 6161
+            },
+            "2021-08-25": {
+                "basic": 1002,
+                "economy": 1102,
+                "first": 4198
             }
         },
         "IDA": {
@@ -7876,6 +7881,13 @@
                 "economy": 993,
                 "first": 1521,
                 "premium": 1447
+            },
+            "2021-08-25": {
+                "basic": 893,
+                "comfort": 1198,
+                "economy": 993,
+                "first": 1521,
+                "premium": 1315
             }
         },
         "TWF": {
