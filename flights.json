@@ -2448,6 +2448,12 @@
                 "comfort": 1150,
                 "economy": 1050,
                 "first": 5563
+            },
+            "2021-08-29": {
+                "basic": 950,
+                "comfort": 1150,
+                "economy": 1050,
+                "first": 6111
             }
         },
         "COD": {
@@ -4294,6 +4300,11 @@
                 "basic": 1001,
                 "comfort": 1201,
                 "economy": 1101,
+                "first": 6162
+            },
+            "2021-08-29": {
+                "comfort": 1711,
+                "economy": 1356,
                 "first": 6162
             }
         },
@@ -7950,6 +7961,13 @@
                 "economy": 992,
                 "first": 4659,
                 "premium": 1910
+            },
+            "2021-08-29": {
+                "basic": 892,
+                "comfort": 1197,
+                "economy": 992,
+                "first": 4659,
+                "premium": 1446
             }
         },
         "TWF": {
