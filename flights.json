@@ -2484,6 +2484,12 @@
                 "comfort": 1530,
                 "economy": 1310,
                 "first": 6589
+            },
+            "2021-09-07": {
+                "basic": 1210,
+                "comfort": 1410,
+                "economy": 1310,
+                "first": 6589
             }
         },
         "COD": {
@@ -4356,6 +4362,11 @@
                 "comfort": 2330,
                 "economy": 1735,
                 "first": 7238
+            },
+            "2021-09-07": {
+                "comfort": 2210,
+                "economy": 1735,
+                "first": 7238
             }
         },
         "HLN": {
@@ -4983,6 +4994,12 @@
                 "basic": 1002,
                 "economy": 1102,
                 "first": 4198
+            },
+            "2021-09-07": {
+                "basic": 1260,
+                "comfort": 1460,
+                "economy": 1360,
+                "first": 6689
             }
         },
         "IDA": {
