@@ -1233,8 +1233,21 @@
                 "comfort": 1248,
                 "economy": 1148,
                 "first": 2263,
-                "premium": 1569,
-                "unknown": 1048
+                "premium": 1569
+            },
+            "2021-11-14": {
+                "basic": 1048,
+                "comfort": 1248,
+                "economy": 1148,
+                "first": 2263,
+                "premium": 1569
+            },
+            "2021-11-16": {
+                "basic": 1048,
+                "comfort": 1248,
+                "economy": 1148,
+                "first": 2488,
+                "premium": 1569
             }
         },
         "BZN": {
@@ -2556,8 +2569,21 @@
                 "comfort": 1317,
                 "economy": 1097,
                 "first": 2212,
-                "premium": 1518,
-                "unknown": 997
+                "premium": 1518
+            },
+            "2021-11-14": {
+                "basic": 997,
+                "comfort": 1317,
+                "economy": 1097,
+                "first": 2212,
+                "premium": 1518
+            },
+            "2021-11-16": {
+                "basic": 997,
+                "comfort": 1317,
+                "economy": 1097,
+                "first": 2437,
+                "premium": 1518
             }
         },
         "COD": {
@@ -4467,8 +4493,21 @@
                 "comfort": 1248,
                 "economy": 1148,
                 "first": 4933,
-                "premium": 1569,
-                "unknown": 1048
+                "premium": 1569
+            },
+            "2021-11-14": {
+                "basic": 1048,
+                "comfort": 1248,
+                "economy": 1148,
+                "first": 4933,
+                "premium": 1569
+            },
+            "2021-11-16": {
+                "basic": 1048,
+                "comfort": 1248,
+                "economy": 1148,
+                "first": 2488,
+                "premium": 1569
             }
         },
         "HLN": {
@@ -8221,15 +8260,14 @@
                 "comfort": 1238,
                 "economy": 1138,
                 "first": 5207,
-                "premium": 1514,
-                "unknown": 1038
+                "premium": 1514
             },
             "2021-11-14": {
+                "basic": 1038,
                 "comfort": 1238,
                 "economy": 1138,
                 "first": 5716,
-                "premium": 1514,
-                "unknown": 1038
+                "premium": 1514
             }
         },
         "TWF": {
