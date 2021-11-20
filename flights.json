@@ -1260,7 +1260,7 @@
                 "basic": 1048,
                 "comfort": 1248,
                 "economy": 1148,
-                "first": 2488,
+                "first": 2263,
                 "premium": 1569
             }
         },
@@ -5195,6 +5195,13 @@
                 "economy": 1148,
                 "first": 2263,
                 "premium": 1569
+            },
+            "2021-11-20": {
+                "basic": 1048,
+                "comfort": 1248,
+                "economy": 1148,
+                "first": 2488,
+                "premium": 1977
             }
         },
         "IDA": {
