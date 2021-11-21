@@ -2853,6 +2853,13 @@
                 "economy": 740,
                 "first": 3552,
                 "premium": 1111
+            },
+            "2021-11-21": {
+                "basic": 640,
+                "comfort": 840,
+                "economy": 740,
+                "first": 3852,
+                "premium": 1111
             }
         },
         "GTF": {
@@ -6083,6 +6090,12 @@
                 "economy": 1097,
                 "first": 8418,
                 "premium": 1925
+            },
+            "2021-11-21": {
+                "comfort": 1197,
+                "economy": 1097,
+                "first": 9060,
+                "premium": 1925
             }
         },
         "RAP": {
@@ -8462,6 +8475,12 @@
                 "comfort": 1182,
                 "economy": 1082,
                 "first": 8403,
+                "premium": 1910
+            },
+            "2021-11-21": {
+                "comfort": 1182,
+                "economy": 1082,
+                "first": 9045,
                 "premium": 1910
             }
         }
