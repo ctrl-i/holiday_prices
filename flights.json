@@ -2914,6 +2914,13 @@
                 "economy": 740,
                 "first": 3552,
                 "premium": 1111
+            },
+            "2021-11-26": {
+                "basic": 640,
+                "comfort": 840,
+                "economy": 740,
+                "first": 4027,
+                "premium": 1692
             }
         },
         "GTF": {
@@ -5571,6 +5578,13 @@
                 "economy": 1173,
                 "first": 9111,
                 "premium": 1977
+            },
+            "2021-11-26": {
+                "basic": 1048,
+                "comfort": 1248,
+                "economy": 1148,
+                "first": 9111,
+                "premium": 1977
             }
         },
         "JAC": {
@@ -5910,6 +5924,13 @@
                 "economy": 1208,
                 "first": 8986,
                 "premium": 1851
+            },
+            "2021-11-26": {
+                "basic": 948,
+                "comfort": 1168,
+                "economy": 1048,
+                "first": 8986,
+                "premium": 1851
             }
         },
         "PHX": {
@@ -6154,6 +6175,13 @@
                 "economy": 833,
                 "first": 2038,
                 "premium": 1204
+            },
+            "2021-11-26": {
+                "basic": 733,
+                "comfort": 933,
+                "economy": 833,
+                "first": 5905,
+                "premium": 1826
             }
         },
         "PIH": {
@@ -8591,6 +8619,13 @@
                 "economy": 1138,
                 "first": 5207,
                 "premium": 1514
+            },
+            "2021-11-26": {
+                "basic": 1038,
+                "comfort": 1238,
+                "economy": 1138,
+                "first": 5207,
+                "premium": 2117
             }
         },
         "TWF": {
