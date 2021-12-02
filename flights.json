@@ -2696,6 +2696,13 @@
                 "economy": 1082,
                 "first": 4851,
                 "premium": 1503
+            },
+            "2021-12-02": {
+                "basic": 983,
+                "comfort": 1303,
+                "economy": 1083,
+                "first": 4852,
+                "premium": 1504
             }
         },
         "COD": {
@@ -3024,6 +3031,13 @@
                 "economy": 725,
                 "first": 3822,
                 "premium": 1096
+            },
+            "2021-12-02": {
+                "basic": 626,
+                "comfort": 826,
+                "economy": 726,
+                "first": 3523,
+                "premium": 1097
             }
         },
         "GTF": {
@@ -5442,6 +5456,13 @@
                 "economy": 1133,
                 "first": 9081,
                 "premium": 1962
+            },
+            "2021-12-02": {
+                "basic": 1034,
+                "comfort": 1234,
+                "economy": 1134,
+                "first": 9082,
+                "premium": 1963
             }
         },
         "IDA": {
@@ -5758,6 +5779,13 @@
                 "economy": 1133,
                 "first": 9081,
                 "premium": 1962
+            },
+            "2021-12-02": {
+                "basic": 1034,
+                "comfort": 1234,
+                "economy": 1134,
+                "first": 9082,
+                "premium": 1963
             }
         },
         "JAC": {
@@ -6536,6 +6564,12 @@
                 "economy": 1082,
                 "first": 9030,
                 "premium": 1910
+            },
+            "2021-12-02": {
+                "comfort": 1183,
+                "economy": 1083,
+                "first": 9031,
+                "premium": 1911
             }
         },
         "RAP": {
@@ -9055,6 +9089,12 @@
                 "economy": 1067,
                 "first": 9015,
                 "premium": 1895
+            },
+            "2021-12-02": {
+                "comfort": 1168,
+                "economy": 1068,
+                "first": 9016,
+                "premium": 1896
             }
         }
     }
