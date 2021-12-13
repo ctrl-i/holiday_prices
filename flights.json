@@ -1325,6 +1325,13 @@
                 "economy": 1134,
                 "first": 5996,
                 "premium": 1555
+            },
+            "2021-12-13": {
+                "basic": 1034,
+                "comfort": 1254,
+                "economy": 1134,
+                "first": 2434,
+                "premium": 1555
             }
         },
         "BZN": {
@@ -2724,6 +2731,13 @@
                 "economy": 1083,
                 "first": 5944,
                 "premium": 1504
+            },
+            "2021-12-13": {
+                "basic": 983,
+                "comfort": 1303,
+                "economy": 1083,
+                "first": 2383,
+                "premium": 1504
             }
         },
         "COD": {
@@ -3065,6 +3079,13 @@
                 "comfort": 846,
                 "economy": 726,
                 "first": 6760,
+                "premium": 1097
+            },
+            "2021-12-13": {
+                "basic": 626,
+                "comfort": 846,
+                "economy": 726,
+                "first": 3623,
                 "premium": 1097
             }
         },
@@ -4817,6 +4838,13 @@
                 "economy": 1134,
                 "first": 5304,
                 "premium": 1555
+            },
+            "2021-12-13": {
+                "basic": 1034,
+                "comfort": 1254,
+                "economy": 1134,
+                "first": 8640,
+                "premium": 1963
             }
         },
         "HLN": {
@@ -6530,6 +6558,13 @@
                 "economy": 819,
                 "first": 1884,
                 "premium": 1190
+            },
+            "2021-12-13": {
+                "basic": 719,
+                "comfort": 939,
+                "economy": 819,
+                "first": 1984,
+                "premium": 1190
             }
         },
         "PIH": {
@@ -6660,6 +6695,12 @@
                 "economy": 1083,
                 "first": 9231,
                 "premium": 1911
+            },
+            "2021-12-13": {
+                "comfort": 1303,
+                "economy": 1083,
+                "first": 8589,
+                "premium": 2319
             }
         },
         "RAP": {
@@ -7019,6 +7060,13 @@
                 "comfort": 1051,
                 "economy": 886,
                 "first": 5353,
+                "premium": 1097
+            },
+            "2021-12-13": {
+                "basic": 831,
+                "comfort": 1051,
+                "economy": 931,
+                "first": 2146,
                 "premium": 1097
             }
         },
@@ -9087,6 +9135,13 @@
                 "economy": 1124,
                 "first": 5787,
                 "premium": 1500
+            },
+            "2021-12-13": {
+                "basic": 1024,
+                "comfort": 1244,
+                "economy": 1124,
+                "first": 5278,
+                "premium": 1500
             }
         },
         "TWF": {
@@ -9219,6 +9274,12 @@
                 "economy": 1068,
                 "first": 12376,
                 "premium": 1896
+            },
+            "2021-12-13": {
+                "comfort": 1193,
+                "economy": 1123,
+                "first": 9605,
+                "premium": 2223
             }
         }
     }
