@@ -1361,6 +1361,13 @@
                 "economy": 827,
                 "first": 2308,
                 "premium": 1198
+            },
+            "2022-01-11": {
+                "basic": 756,
+                "comfort": 956,
+                "economy": 856,
+                "first": 2308,
+                "premium": 1227
             }
         },
         "BZN": {
@@ -2782,6 +2789,13 @@
                 "first": 2083,
                 "premium": 1198,
                 "unknown": 2477
+            },
+            "2022-01-11": {
+                "basic": 756,
+                "comfort": 1096,
+                "economy": 856,
+                "first": 2083,
+                "premium": 1227
             }
         },
         "COD": {
@@ -4953,6 +4967,13 @@
                 "economy": 827,
                 "first": 2308,
                 "premium": 1700
+            },
+            "2022-01-11": {
+                "basic": 756,
+                "comfort": 1096,
+                "economy": 856,
+                "first": 2308,
+                "premium": 1714
             }
         },
         "HLN": {
@@ -5690,6 +5711,13 @@
                 "economy": 841,
                 "first": 2308,
                 "premium": 1700
+            },
+            "2022-01-11": {
+                "basic": 756,
+                "comfort": 1096,
+                "economy": 856,
+                "first": 2308,
+                "premium": 1714
             }
         },
         "IDA": {
@@ -6055,6 +6083,13 @@
                 "economy": 841,
                 "first": 2384,
                 "premium": 1700
+            },
+            "2022-01-11": {
+                "basic": 756,
+                "comfort": 1096,
+                "economy": 856,
+                "first": 2384,
+                "premium": 1714
             }
         },
         "JAC": {
