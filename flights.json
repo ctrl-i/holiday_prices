@@ -3167,6 +3167,13 @@
                 "first": 3622,
                 "premium": 1096,
                 "unknown": 2373
+            },
+            "2022-01-12": {
+                "basic": 626,
+                "comfort": 826,
+                "economy": 726,
+                "first": 3623,
+                "premium": 1096
             }
         },
         "GTF": {
