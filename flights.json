@@ -2840,9 +2840,9 @@
                 "premium": 1713
             },
             "2022-01-19": {
-                "basic": 826,
-                "comfort": 1146,
-                "economy": 926,
+                "basic": 776,
+                "comfort": 1096,
+                "economy": 876,
                 "first": 2084,
                 "premium": 1226
             }
@@ -6721,9 +6721,9 @@
                 "premium": 2243
             },
             "2022-01-19": {
-                "basic": 1108,
-                "comfort": 1428,
-                "economy": 1208,
+                "basic": 1058,
+                "comfort": 1378,
+                "economy": 1158,
                 "first": 10705,
                 "premium": 1835
             }
