@@ -5078,6 +5078,13 @@
                 "economy": 876,
                 "first": 9065,
                 "premium": 1713
+            },
+            "2022-01-20": {
+                "basic": 777,
+                "comfort": 1097,
+                "economy": 877,
+                "first": 5453,
+                "premium": 1714
             }
         },
         "HLN": {
@@ -5856,6 +5863,13 @@
                 "economy": 926,
                 "first": 9065,
                 "premium": 1226
+            },
+            "2022-01-20": {
+                "basic": 777,
+                "comfort": 1097,
+                "economy": 877,
+                "first": 5453,
+                "premium": 1227
             }
         },
         "IDA": {
@@ -6262,6 +6276,13 @@
                 "economy": 976,
                 "first": 9111,
                 "premium": 1713
+            },
+            "2022-01-20": {
+                "basic": 777,
+                "comfort": 1097,
+                "economy": 877,
+                "first": 5579,
+                "premium": 1714
             }
         },
         "JAC": {
@@ -6726,6 +6747,13 @@
                 "economy": 1158,
                 "first": 10705,
                 "premium": 1835
+            },
+            "2022-01-20": {
+                "basic": 954,
+                "comfort": 1274,
+                "economy": 1054,
+                "first": 8373,
+                "premium": 1836
             }
         },
         "PHX": {
@@ -7271,6 +7299,12 @@
                 "economy": 1104,
                 "first": 8449,
                 "premium": 2319
+            },
+            "2022-01-20": {
+                "comfort": 1325,
+                "economy": 1105,
+                "first": 5529,
+                "premium": 2320
             }
         },
         "RAP": {
@@ -7687,6 +7721,13 @@
                 "economy": 1174,
                 "first": 3390,
                 "premium": 1446
+            },
+            "2022-01-20": {
+                "basic": 1049,
+                "comfort": 1369,
+                "economy": 1149,
+                "first": 3390,
+                "premium": 1447
             }
         },
         "SLC": {
