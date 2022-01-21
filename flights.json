@@ -6283,6 +6283,13 @@
                 "economy": 877,
                 "first": 5579,
                 "premium": 1714
+            },
+            "2022-01-21": {
+                "basic": 777,
+                "comfort": 1097,
+                "economy": 877,
+                "first": 5354,
+                "premium": 1714
             }
         },
         "JAC": {
@@ -6753,6 +6760,13 @@
                 "comfort": 1249,
                 "economy": 1029,
                 "first": 8373,
+                "premium": 1836
+            },
+            "2022-01-21": {
+                "basic": 929,
+                "comfort": 1249,
+                "economy": 1029,
+                "first": 5453,
                 "premium": 1836
             }
         },
@@ -7726,6 +7740,13 @@
                 "basic": 1049,
                 "comfort": 1369,
                 "economy": 1149,
+                "first": 3390,
+                "premium": 1447
+            },
+            "2022-01-21": {
+                "basic": 1081,
+                "comfort": 1401,
+                "economy": 1181,
                 "first": 3390,
                 "premium": 1447
             }
