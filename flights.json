@@ -7749,6 +7749,13 @@
                 "economy": 1181,
                 "first": 3390,
                 "premium": 1447
+            },
+            "2022-01-22": {
+                "basic": 1049,
+                "comfort": 1369,
+                "economy": 1149,
+                "first": 3390,
+                "premium": 1447
             }
         },
         "SLC": {
@@ -10058,6 +10065,13 @@
                 "comfort": 1258,
                 "economy": 1088,
                 "first": 2144,
+                "premium": 2225
+            },
+            "2022-01-22": {
+                "basic": 989,
+                "comfort": 1259,
+                "economy": 1089,
+                "first": 2369,
                 "premium": 2225
             }
         }
