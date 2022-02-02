@@ -5183,6 +5183,13 @@
                 "economy": 876,
                 "first": 5229,
                 "premium": 1713
+            },
+            "2022-02-02": {
+                "basic": 775,
+                "comfort": 1095,
+                "economy": 875,
+                "first": 5229,
+                "premium": 1712
             }
         },
         "HLN": {
@@ -6505,6 +6512,13 @@
                 "economy": 876,
                 "first": 5353,
                 "premium": 1713
+            },
+            "2022-02-02": {
+                "basic": 775,
+                "comfort": 1095,
+                "economy": 875,
+                "first": 5353,
+                "premium": 1712
             }
         },
         "JAC": {
