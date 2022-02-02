@@ -5188,7 +5188,7 @@
                 "basic": 775,
                 "comfort": 1095,
                 "economy": 875,
-                "first": 5229,
+                "first": 2310,
                 "premium": 1712
             }
         },
@@ -6031,6 +6031,13 @@
                 "economy": 876,
                 "first": 5229,
                 "premium": 1226
+            },
+            "2022-02-02": {
+                "basic": 775,
+                "comfort": 1095,
+                "economy": 875,
+                "first": 2310,
+                "premium": 1225
             }
         },
         "IDA": {
@@ -6517,7 +6524,7 @@
                 "basic": 775,
                 "comfort": 1095,
                 "economy": 875,
-                "first": 5353,
+                "first": 2384,
                 "premium": 1712
             }
         },
@@ -7065,6 +7072,13 @@
                 "economy": 1115,
                 "first": 5921,
                 "premium": 1837
+            },
+            "2022-02-02": {
+                "basic": 979,
+                "comfort": 1299,
+                "economy": 1079,
+                "first": 5229,
+                "premium": 1836
             }
         },
         "PHX": {
@@ -7691,6 +7705,12 @@
                 "economy": 1104,
                 "first": 5303,
                 "premium": 2319
+            },
+            "2022-02-02": {
+                "comfort": 1323,
+                "economy": 1103,
+                "first": 2384,
+                "premium": 2318
             }
         },
         "RAP": {
@@ -8177,6 +8197,13 @@
                 "economy": 1092,
                 "first": 3391,
                 "premium": 1447
+            },
+            "2022-02-02": {
+                "basic": 1127,
+                "comfort": 1447,
+                "economy": 1227,
+                "first": 3391,
+                "premium": 1446
             }
         },
         "SLC": {
