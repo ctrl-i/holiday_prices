@@ -1443,7 +1443,7 @@
                 "basic": 947,
                 "comfort": 1267,
                 "economy": 1047,
-                "first": 5258,
+                "first": 2310,
                 "premium": 1733
             }
         },
@@ -2928,6 +2928,13 @@
                 "comfort": 1112,
                 "economy": 892,
                 "first": 2309,
+                "premium": 1733
+            },
+            "2022-02-08": {
+                "basic": 842,
+                "comfort": 1162,
+                "economy": 942,
+                "first": 2310,
                 "premium": 1733
             }
         },
@@ -5274,6 +5281,13 @@
                 "economy": 1047,
                 "first": 5949,
                 "premium": 1733
+            },
+            "2022-02-08": {
+                "basic": 792,
+                "comfort": 1112,
+                "economy": 892,
+                "first": 5950,
+                "premium": 1733
             }
         },
         "HLN": {
@@ -7247,6 +7261,13 @@
                 "economy": 1231,
                 "first": 7349,
                 "premium": 1857
+            },
+            "2022-02-08": {
+                "basic": 1101,
+                "comfort": 1421,
+                "economy": 1201,
+                "first": 7350,
+                "premium": 1446
             }
         },
         "PHX": {
@@ -7924,6 +7945,12 @@
                 "economy": 1205,
                 "first": 6023,
                 "premium": 2343
+            },
+            "2022-02-08": {
+                "comfort": 1340,
+                "economy": 1120,
+                "first": 6249,
+                "premium": 2343
             }
         },
         "RAP": {
@@ -8437,6 +8464,12 @@
                 "comfort": 1543,
                 "economy": 1323,
                 "first": 3748,
+                "premium": 1874
+            },
+            "2022-02-08": {
+                "comfort": 1732,
+                "economy": 1512,
+                "first": 3449,
                 "premium": 1874
             }
         },
