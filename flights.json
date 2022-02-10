@@ -1454,11 +1454,11 @@
                 "premium": 1712
             },
             "2022-02-10": {
-                "basic": 825,
-                "comfort": 1145,
-                "economy": 925,
+                "basic": 875,
+                "comfort": 1195,
+                "economy": 975,
                 "first": 2577,
-                "premium": 1762
+                "premium": 2540
             }
         },
         "BZN": {
@@ -2962,8 +2962,8 @@
                 "basic": 775,
                 "comfort": 1095,
                 "economy": 875,
-                "first": 2352,
-                "premium": 1325
+                "first": 2577,
+                "premium": 1762
             }
         },
         "COD": {
@@ -5342,7 +5342,7 @@
                 "basic": 775,
                 "comfort": 1095,
                 "economy": 875,
-                "first": 5992,
+                "first": 9166,
                 "premium": 1762
             }
         },
@@ -6232,7 +6232,7 @@
                 "basic": 775,
                 "comfort": 1095,
                 "economy": 875,
-                "first": 5992,
+                "first": 9166,
                 "premium": 1325
             }
         },
@@ -6752,10 +6752,10 @@
                 "premium": 1712
             },
             "2022-02-10": {
-                "basic": 775,
-                "comfort": 1095,
-                "economy": 875,
-                "first": 6964,
+                "basic": 825,
+                "comfort": 1145,
+                "economy": 925,
+                "first": 10187,
                 "premium": 1762
             }
         },
@@ -7364,7 +7364,7 @@
                 "basic": 1014,
                 "comfort": 1334,
                 "economy": 1114,
-                "first": 7617,
+                "first": 10676,
                 "premium": 1429
             }
         },
@@ -8073,7 +8073,7 @@
             "2022-02-10": {
                 "comfort": 1323,
                 "economy": 1103,
-                "first": 6291,
+                "first": 9240,
                 "premium": 2318
             }
         },
