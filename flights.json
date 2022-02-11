@@ -1465,7 +1465,7 @@
                 "comfort": 1195,
                 "economy": 975,
                 "first": 2634,
-                "premium": 2540
+                "premium": 1762
             }
         },
         "BZN": {
@@ -2977,7 +2977,7 @@
                 "comfort": 1095,
                 "economy": 875,
                 "first": 2634,
-                "premium": 1762
+                "premium": 1325
             }
         },
         "COD": {
@@ -5358,6 +5358,13 @@
                 "economy": 875,
                 "first": 9166,
                 "premium": 1762
+            },
+            "2022-02-11": {
+                "basic": 775,
+                "comfort": 1095,
+                "economy": 875,
+                "first": 9857,
+                "premium": 1762
             }
         },
         "HLN": {
@@ -6248,6 +6255,13 @@
                 "economy": 875,
                 "first": 9166,
                 "premium": 1325
+            },
+            "2022-02-11": {
+                "basic": 775,
+                "comfort": 1095,
+                "economy": 875,
+                "first": 9857,
+                "premium": 1325
             }
         },
         "IDA": {
@@ -6770,6 +6784,13 @@
                 "comfort": 1145,
                 "economy": 925,
                 "first": 10187,
+                "premium": 1762
+            },
+            "2022-02-11": {
+                "basic": 825,
+                "comfort": 1145,
+                "economy": 925,
+                "first": 10749,
                 "premium": 1762
             }
         },
@@ -7379,6 +7400,13 @@
                 "comfort": 1334,
                 "economy": 1114,
                 "first": 10676,
+                "premium": 1429
+            },
+            "2022-02-11": {
+                "basic": 1014,
+                "comfort": 1334,
+                "economy": 1114,
+                "first": 11257,
                 "premium": 1429
             }
         },
@@ -8095,6 +8123,12 @@
                 "comfort": 1323,
                 "economy": 1103,
                 "first": 9240,
+                "premium": 2318
+            },
+            "2022-02-11": {
+                "comfort": 1323,
+                "economy": 1103,
+                "first": 9931,
                 "premium": 2318
             }
         },
@@ -11097,9 +11131,9 @@
             },
             "2022-02-11": {
                 "basic": 991,
-                "comfort": 1438,
+                "comfort": 1313,
                 "economy": 1091,
-                "first": 2468,
+                "first": 7480,
                 "premium": 2274
             }
         }
