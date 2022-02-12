@@ -6269,6 +6269,13 @@
                 "economy": 875,
                 "first": 9857,
                 "premium": 1325
+            },
+            "2022-02-12": {
+                "basic": 930,
+                "comfort": 1250,
+                "economy": 1030,
+                "first": 9857,
+                "premium": 1325
             }
         },
         "IDA": {
@@ -7424,10 +7431,10 @@
                 "premium": 1429
             },
             "2022-02-12": {
-                "basic": 1059,
-                "comfort": 1379,
-                "economy": 1159,
-                "first": 11257,
+                "basic": 1014,
+                "comfort": 1334,
+                "economy": 1114,
+                "first": 10675,
                 "premium": 1836
             }
         },
