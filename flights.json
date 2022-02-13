@@ -6276,6 +6276,13 @@
                 "economy": 1030,
                 "first": 9857,
                 "premium": 1325
+            },
+            "2022-02-13": {
+                "basic": 875,
+                "comfort": 1195,
+                "economy": 975,
+                "first": 9165,
+                "premium": 1325
             }
         },
         "IDA": {
@@ -7436,6 +7443,13 @@
                 "economy": 1114,
                 "first": 10675,
                 "premium": 1836
+            },
+            "2022-02-13": {
+                "basic": 1014,
+                "comfort": 1334,
+                "economy": 1114,
+                "first": 10565,
+                "premium": 1429
             }
         },
         "PHX": {
@@ -8696,6 +8710,13 @@
             "2022-02-12": {
                 "comfort": 1715,
                 "economy": 1495,
+                "first": 3490,
+                "premium": 2261
+            },
+            "2022-02-13": {
+                "basic": 1347,
+                "comfort": 1667,
+                "economy": 1447,
                 "first": 3490,
                 "premium": 2261
             }
