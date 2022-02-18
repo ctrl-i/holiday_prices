@@ -5465,9 +5465,9 @@
                 "premium": 1762
             },
             "2022-02-18": {
-                "basic": 825,
-                "comfort": 1145,
-                "economy": 925,
+                "basic": 775,
+                "comfort": 1095,
+                "economy": 875,
                 "first": 9857,
                 "premium": 1762
             }
@@ -7634,10 +7634,10 @@
                 "premium": 1836
             },
             "2022-02-18": {
-                "basic": 1039,
-                "comfort": 1359,
-                "economy": 1139,
-                "first": 11412,
+                "basic": 929,
+                "comfort": 1249,
+                "economy": 1029,
+                "first": 10675,
                 "premium": 1836
             }
         },
@@ -8391,6 +8391,12 @@
                 "comfort": 1323,
                 "economy": 1103,
                 "first": 9240,
+                "premium": 2318
+            },
+            "2022-02-18": {
+                "comfort": 1323,
+                "economy": 1103,
+                "first": 9931,
                 "premium": 2318
             }
         },
