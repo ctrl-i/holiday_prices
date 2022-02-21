@@ -7674,6 +7674,13 @@
                 "economy": 1029,
                 "first": 11257,
                 "premium": 1836
+            },
+            "2022-02-21": {
+                "basic": 929,
+                "comfort": 1249,
+                "economy": 1029,
+                "first": 10565,
+                "premium": 1836
             }
         },
         "PHX": {
@@ -11512,6 +11519,13 @@
                 "comfort": 1258,
                 "economy": 1088,
                 "first": 6080,
+                "premium": 2274
+            },
+            "2022-02-21": {
+                "basic": 988,
+                "comfort": 1258,
+                "economy": 1088,
+                "first": 7480,
                 "premium": 2274
             }
         }
