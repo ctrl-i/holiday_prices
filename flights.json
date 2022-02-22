@@ -3020,6 +3020,13 @@
                 "economy": 875,
                 "first": 2635,
                 "premium": 1762
+            },
+            "2022-02-22": {
+                "basic": 775,
+                "comfort": 1095,
+                "economy": 875,
+                "first": 2409,
+                "premium": 1762
             }
         },
         "COD": {
@@ -3453,6 +3460,13 @@
                 "comfort": 846,
                 "economy": 746,
                 "first": 2240,
+                "premium": 1677
+            },
+            "2022-02-22": {
+                "basic": 646,
+                "comfort": 846,
+                "economy": 746,
+                "first": 5893,
                 "premium": 1677
             }
         },
@@ -8113,7 +8127,7 @@
                 "basic": 739,
                 "comfort": 939,
                 "economy": 839,
-                "first": 2759,
+                "first": 6701,
                 "premium": 1836
             }
         },
