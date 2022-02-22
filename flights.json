@@ -6430,6 +6430,13 @@
                 "economy": 875,
                 "first": 9165,
                 "premium": 1325
+            },
+            "2022-02-22": {
+                "basic": 775,
+                "comfort": 1095,
+                "economy": 875,
+                "first": 9165,
+                "premium": 1762
             }
         },
         "IDA": {
@@ -8101,6 +8108,13 @@
                 "economy": 839,
                 "first": 2759,
                 "premium": 1239
+            },
+            "2022-02-22": {
+                "basic": 739,
+                "comfort": 939,
+                "economy": 839,
+                "first": 2759,
+                "premium": 1836
             }
         },
         "PIH": {
