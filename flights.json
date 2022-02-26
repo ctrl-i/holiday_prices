@@ -1501,6 +1501,13 @@
                 "economy": 875,
                 "first": 7420,
                 "premium": 1762
+            },
+            "2022-02-26": {
+                "basic": 776,
+                "comfort": 1096,
+                "economy": 876,
+                "first": 7421,
+                "premium": 1763
             }
         },
         "BZN": {
@@ -3055,6 +3062,13 @@
                 "economy": 875,
                 "first": 7420,
                 "premium": 1762
+            },
+            "2022-02-26": {
+                "basic": 776,
+                "comfort": 1096,
+                "economy": 876,
+                "first": 7421,
+                "premium": 1763
             }
         },
         "COD": {
@@ -3503,6 +3517,13 @@
                 "economy": 746,
                 "first": 2240,
                 "premium": 1677
+            },
+            "2022-02-26": {
+                "basic": 647,
+                "comfort": 847,
+                "economy": 747,
+                "first": 2241,
+                "premium": 1678
             }
         },
         "GTF": {
@@ -5540,6 +5561,13 @@
                 "economy": 875,
                 "first": 6020,
                 "premium": 1762
+            },
+            "2022-02-26": {
+                "basic": 776,
+                "comfort": 1096,
+                "economy": 876,
+                "first": 6021,
+                "premium": 1763
             }
         },
         "HLN": {
@@ -6514,6 +6542,13 @@
                 "economy": 875,
                 "first": 6020,
                 "premium": 1762
+            },
+            "2022-02-26": {
+                "basic": 776,
+                "comfort": 1096,
+                "economy": 876,
+                "first": 6021,
+                "premium": 1763
             }
         },
         "IDA": {
@@ -7093,6 +7128,13 @@
                 "economy": 875,
                 "first": 6992,
                 "premium": 1762
+            },
+            "2022-02-26": {
+                "basic": 776,
+                "comfort": 1096,
+                "economy": 876,
+                "first": 6993,
+                "premium": 1763
             }
         },
         "JAC": {
