@@ -6605,6 +6605,13 @@
                 "economy": 906,
                 "first": 6021,
                 "premium": 2571
+            },
+            "2022-03-02": {
+                "basic": 806,
+                "comfort": 1126,
+                "economy": 906,
+                "first": 6021,
+                "premium": 1793
             }
         },
         "IDA": {
@@ -9308,6 +9315,13 @@
                 "economy": 1122,
                 "first": 7587,
                 "premium": 2292
+            },
+            "2022-03-02": {
+                "basic": 1022,
+                "comfort": 1342,
+                "economy": 1122,
+                "first": 7887,
+                "premium": 2292
             }
         },
         "SLC": {
@@ -11848,6 +11862,13 @@
                 "comfort": 2004,
                 "economy": 1119,
                 "first": 6081,
+                "premium": 2290
+            },
+            "2022-03-02": {
+                "basic": 1019,
+                "comfort": 2004,
+                "economy": 1119,
+                "first": 7481,
                 "premium": 2290
             }
         }
