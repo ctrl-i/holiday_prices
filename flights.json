@@ -3552,6 +3552,13 @@
                 "economy": 777,
                 "first": 2241,
                 "premium": 1127
+            },
+            "2022-03-03": {
+                "basic": 677,
+                "comfort": 897,
+                "economy": 777,
+                "first": 2241,
+                "premium": 1127
             }
         },
         "GTF": {
@@ -9321,6 +9328,13 @@
                 "comfort": 1342,
                 "economy": 1122,
                 "first": 7887,
+                "premium": 2292
+            },
+            "2022-03-03": {
+                "basic": 1022,
+                "comfort": 1342,
+                "economy": 1122,
+                "first": 11443,
                 "premium": 2292
             }
         },
