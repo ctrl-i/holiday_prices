@@ -1543,6 +1543,13 @@
                 "economy": 906,
                 "first": 10008,
                 "premium": 1793
+            },
+            "2022-03-09": {
+                "basic": 806,
+                "comfort": 1126,
+                "economy": 906,
+                "first": 10717,
+                "premium": 1356
             }
         },
         "BZN": {
@@ -3139,6 +3146,13 @@
                 "economy": 906,
                 "first": 9316,
                 "premium": 1793
+            },
+            "2022-03-09": {
+                "basic": 806,
+                "comfort": 1126,
+                "economy": 906,
+                "first": 6322,
+                "premium": 1356
             }
         },
         "COD": {
@@ -11705,6 +11719,13 @@
                 "economy": 1175,
                 "first": 5450,
                 "premium": 2133
+            },
+            "2022-03-09": {
+                "basic": 1075,
+                "comfort": 1279,
+                "economy": 1175,
+                "first": 5451,
+                "premium": 1530
             }
         },
         "TWF": {
