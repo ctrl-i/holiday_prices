@@ -1632,7 +1632,7 @@
                 "basic": 809,
                 "comfort": 1129,
                 "economy": 909,
-                "first": 11527,
+                "first": 10864,
                 "premium": 1796
             }
         },
@@ -3306,6 +3306,13 @@
                 "comfort": 1129,
                 "economy": 909,
                 "first": 10865,
+                "premium": 1796
+            },
+            "2022-04-05": {
+                "basic": 809,
+                "comfort": 1129,
+                "economy": 909,
+                "first": 11317,
                 "premium": 1796
             }
         },
