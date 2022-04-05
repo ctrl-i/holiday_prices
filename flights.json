@@ -1627,6 +1627,13 @@
                 "economy": 909,
                 "first": 11528,
                 "premium": 1796
+            },
+            "2022-04-05": {
+                "basic": 809,
+                "comfort": 1129,
+                "economy": 909,
+                "first": 11527,
+                "premium": 1796
             }
         },
         "BZN": {
@@ -7017,6 +7024,13 @@
                 "comfort": 1129,
                 "economy": 909,
                 "first": 10710,
+                "premium": 1796
+            },
+            "2022-04-05": {
+                "basic": 859,
+                "comfort": 1229,
+                "economy": 959,
+                "first": 10709,
                 "premium": 1796
             }
         },
