@@ -3314,6 +3314,13 @@
                 "economy": 909,
                 "first": 11317,
                 "premium": 1796
+            },
+            "2022-04-06": {
+                "basic": 809,
+                "comfort": 1129,
+                "economy": 909,
+                "first": 10864,
+                "premium": 1796
             }
         },
         "COD": {
@@ -8346,6 +8353,13 @@
                 "economy": 1116,
                 "first": 11528,
                 "premium": 1868
+            },
+            "2022-04-06": {
+                "basic": 961,
+                "comfort": 1281,
+                "economy": 1061,
+                "first": 11527,
+                "premium": 1868
             }
         },
         "PHX": {
@@ -9790,6 +9804,13 @@
                 "comfort": 1617,
                 "economy": 1260,
                 "first": 11276,
+                "premium": 1886
+            },
+            "2022-04-06": {
+                "basic": 1024,
+                "comfort": 1344,
+                "economy": 1124,
+                "first": 12294,
                 "premium": 1886
             }
         },
