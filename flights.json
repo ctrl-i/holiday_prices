@@ -8374,6 +8374,13 @@
                 "economy": 1061,
                 "first": 11527,
                 "premium": 1868
+            },
+            "2022-04-08": {
+                "basic": 986,
+                "comfort": 1331,
+                "economy": 1086,
+                "first": 11528,
+                "premium": 1868
             }
         },
         "PHX": {
@@ -9826,6 +9833,13 @@
                 "economy": 1124,
                 "first": 12294,
                 "premium": 1886
+            },
+            "2022-04-08": {
+                "basic": 1024,
+                "comfort": 1344,
+                "economy": 1124,
+                "first": 10018,
+                "premium": 2294
             }
         },
         "SLC": {
@@ -12449,6 +12463,12 @@
                 "comfort": 1342,
                 "economy": 1122,
                 "first": 11379,
+                "premium": 1929
+            },
+            "2022-04-08": {
+                "comfort": 1342,
+                "economy": 1122,
+                "first": 9979,
                 "premium": 1929
             }
         }
