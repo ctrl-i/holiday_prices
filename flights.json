@@ -1634,6 +1634,13 @@
                 "economy": 909,
                 "first": 10864,
                 "premium": 1796
+            },
+            "2022-04-08": {
+                "basic": 809,
+                "comfort": 1129,
+                "economy": 909,
+                "first": 9888,
+                "premium": 1796
             }
         },
         "BZN": {
@@ -3320,6 +3327,13 @@
                 "comfort": 1129,
                 "economy": 909,
                 "first": 10864,
+                "premium": 1796
+            },
+            "2022-04-08": {
+                "basic": 809,
+                "comfort": 1129,
+                "economy": 909,
+                "first": 9918,
                 "premium": 1796
             }
         },
@@ -12110,6 +12124,13 @@
                 "comfort": 1280,
                 "economy": 1176,
                 "first": 4121,
+                "premium": 1531
+            },
+            "2022-04-08": {
+                "basic": 1076,
+                "comfort": 1280,
+                "economy": 1176,
+                "first": 4116,
                 "premium": 1531
             }
         },
