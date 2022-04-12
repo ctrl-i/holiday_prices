@@ -3860,6 +3860,13 @@
                 "economy": 778,
                 "first": 3926,
                 "premium": 1128
+            },
+            "2022-04-12": {
+                "basic": 678,
+                "comfort": 998,
+                "economy": 778,
+                "first": 3926,
+                "premium": 1709
             }
         },
         "GTF": {
@@ -7758,6 +7765,13 @@
                 "economy": 909,
                 "first": 10941,
                 "premium": 1796
+            },
+            "2022-04-12": {
+                "basic": 809,
+                "comfort": 1129,
+                "economy": 909,
+                "first": 6749,
+                "premium": 1796
             }
         },
         "JAC": {
@@ -8479,6 +8493,13 @@
                 "economy": 1086,
                 "first": 11528,
                 "premium": 1868
+            },
+            "2022-04-12": {
+                "basic": 961,
+                "comfort": 1281,
+                "economy": 1061,
+                "first": 6926,
+                "premium": 1868
             }
         },
         "PHX": {
@@ -8941,6 +8962,13 @@
                 "economy": 871,
                 "first": 4150,
                 "premium": 1271
+            },
+            "2022-04-12": {
+                "basic": 771,
+                "comfort": 971,
+                "economy": 871,
+                "first": 4150,
+                "premium": 1271
             }
         },
         "PIH": {
@@ -9328,6 +9356,13 @@
                 "economy": 1137,
                 "first": 10786,
                 "premium": 2352
+            },
+            "2022-04-12": {
+                "basic": 1037,
+                "comfort": 2022,
+                "economy": 1137,
+                "first": 7419,
+                "premium": 3203
             }
         },
         "RAP": {
@@ -9938,6 +9973,13 @@
                 "economy": 1124,
                 "first": 10018,
                 "premium": 2294
+            },
+            "2022-04-12": {
+                "basic": 1024,
+                "comfort": 1344,
+                "economy": 1124,
+                "first": 6306,
+                "premium": 1886
             }
         },
         "SLC": {
@@ -12581,6 +12623,12 @@
                 "comfort": 1342,
                 "economy": 1122,
                 "first": 9979,
+                "premium": 1929
+            },
+            "2022-04-12": {
+                "comfort": 1342,
+                "economy": 1122,
+                "first": 4412,
                 "premium": 1929
             }
         }
