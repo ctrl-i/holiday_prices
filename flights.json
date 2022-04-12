@@ -6037,6 +6037,13 @@
                 "economy": 1009,
                 "first": 7343,
                 "premium": 1796
+            },
+            "2022-04-13": {
+                "basic": 909,
+                "comfort": 1329,
+                "economy": 1009,
+                "first": 7718,
+                "premium": 1796
             }
         },
         "HLN": {
@@ -7164,6 +7171,13 @@
                 "comfort": 1129,
                 "economy": 909,
                 "first": 7343,
+                "premium": 1796
+            },
+            "2022-04-13": {
+                "basic": 809,
+                "comfort": 1129,
+                "economy": 909,
+                "first": 7718,
                 "premium": 1796
             }
         },
