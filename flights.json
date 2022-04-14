@@ -6044,6 +6044,13 @@
                 "economy": 1009,
                 "first": 7718,
                 "premium": 1796
+            },
+            "2022-04-14": {
+                "basic": 964,
+                "comfort": 1439,
+                "economy": 1064,
+                "first": 10710,
+                "premium": 1796
             }
         },
         "HLN": {
@@ -7179,6 +7186,13 @@
                 "economy": 909,
                 "first": 7718,
                 "premium": 1796
+            },
+            "2022-04-14": {
+                "basic": 809,
+                "comfort": 1129,
+                "economy": 909,
+                "first": 9918,
+                "premium": 2651
             }
         },
         "IDA": {
@@ -12314,6 +12328,13 @@
                 "economy": 1176,
                 "first": 4116,
                 "premium": 1531
+            },
+            "2022-04-14": {
+                "basic": 1076,
+                "comfort": 1306,
+                "economy": 1176,
+                "first": 4116,
+                "premium": 2134
             }
         },
         "TWF": {
