@@ -1662,6 +1662,13 @@
                 "economy": 909,
                 "first": 6551,
                 "premium": 1796
+            },
+            "2022-11-08": {
+                "comfort": 1139,
+                "economy": 939,
+                "first": 6001,
+                "premium": 1831,
+                "unknown": 1039
             }
         },
         "BZN": {
