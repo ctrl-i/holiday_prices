@@ -12342,6 +12342,14 @@
                 "economy": 1176,
                 "first": 4116,
                 "premium": 2134
+            },
+            "2022-11-12": {
+                "basic": 1065,
+                "comfort": 1365,
+                "economy": 1165,
+                "first": 2594,
+                "premium": 1549,
+                "unknown": 1265
             }
         },
         "TWF": {
