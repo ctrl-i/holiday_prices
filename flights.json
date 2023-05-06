@@ -6058,6 +6058,14 @@
                 "economy": 1064,
                 "first": 10710,
                 "premium": 1796
+            },
+            "2023-05-06": {
+                "basic": 1278,
+                "comfort": 1608,
+                "economy": 1398,
+                "first": 9344,
+                "premium": 2255,
+                "unknown": 1518
             }
         },
         "HLN": {
