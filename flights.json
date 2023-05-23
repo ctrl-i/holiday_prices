@@ -9406,6 +9406,14 @@
                 "economy": 1137,
                 "first": 7419,
                 "premium": 3203
+            },
+            "2023-05-23": {
+                "basic": 1120,
+                "comfort": 1390,
+                "economy": 1240,
+                "first": 11008,
+                "premium": 2373,
+                "unknown": 1360
             }
         },
         "RAP": {
