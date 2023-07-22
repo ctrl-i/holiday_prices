@@ -7208,6 +7208,14 @@
                 "economy": 909,
                 "first": 9918,
                 "premium": 2651
+            },
+            "2023-07-23": {
+                "basic": 898,
+                "comfort": 1168,
+                "economy": 1018,
+                "first": 12328,
+                "premium": 3914,
+                "unknown": 1138
             }
         },
         "IDA": {
